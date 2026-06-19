@@ -23,7 +23,6 @@ It is **not** a beginner intro, and it is **not** a certification dump. It is a 
 
 Primarily **for me**. But also for:
 
-- CS/BCA students past the basics who want real depth
 - Anyone preparing for ethical hacking, bug bounty, or security research
 - Developers who want to understand what's happening *under* their code
 - People who read Silberschatz and felt it was a bit outdated in places
